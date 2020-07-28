@@ -6,7 +6,7 @@
 - Password
 
 No. | Computer & Engineering
------- | ------
+----|-----------------------
 1. | [Ebscohost Research Databases](http://eresources.newinti.edu.my/login?url=https://search.ebscohost.com/)
 2. | [ProQuest Ebook Central](http://eresources.newinti.edu.my/login?url=https://ebookcentral.proquest.com/lib/intiuc-ebooks/home.action)
 3. | [ScienceDirect](https://www-sciencedirect-com.eresources.newinti.edu.my/)
