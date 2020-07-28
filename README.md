@@ -4,8 +4,6 @@
 
 - Student ID
 - Password
-  
-&nbsp
 
 No. | Computer & Engineering
 ------ | ------
